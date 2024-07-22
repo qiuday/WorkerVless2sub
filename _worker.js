@@ -15,6 +15,9 @@ let addresses = [
 // 设置优选地址api接口
 let addressesapi = [
 	'https://cf-workers-text2kv-ex8.pages.dev/bestip.txt?token=iptxt', //可参考内容格式 自行搭建。
+	'https://ipdb.api.030101.xyz/?type=bestcf&country=true', 
+	'https://addressesapi.090227.xyz/CloudFlareYes', 
+	'https://addressesapi.090227.xyz/ip.164746.xyz', 
 	//'https://raw.githubusercontent.com/cmliu/WorkerVless2sub/main/addressesipv6api.txt', //IPv6优选内容格式 自行搭建。
 ];
 
