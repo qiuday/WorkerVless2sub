@@ -18,6 +18,7 @@ let addressesapi = [
 	'https://ipdb.api.030101.xyz/?type=bestcf&country=true', 
 	'https://addressesapi.090227.xyz/CloudFlareYes', 
 	'https://addressesapi.090227.xyz/ip.164746.xyz', 
+	'https://cu.xxxxxxxx.tk/', 
 	//'https://raw.githubusercontent.com/cmliu/WorkerVless2sub/main/addressesipv6api.txt', //IPv6优选内容格式 自行搭建。
 ];
 
@@ -47,6 +48,7 @@ let RproxyIP = 'false';
 let proxyIPs = [//无法匹配到节点名就随机分配以下ProxyIP域名
 	'proxyip.multacom.fxxk.dedyn.io',
 	'proxyip.vultr.fxxk.dedyn.io',
+	'bestcf.030101.xyz',
 ];
 let CMproxyIPs = [
 	//'proxyip.aliyun.fxxk.dedyn.io:HK',//匹配节点名, 有HK就分配该ProxyIP域名
